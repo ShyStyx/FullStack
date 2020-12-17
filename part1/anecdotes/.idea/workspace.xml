@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1213b37-eedb-4633-a069-78890f75da4b" name="Default Changelist" comment="Course info Exercises 1.6-1.14" />
+    <list default="true" id="c1213b37-eedb-4633-a069-78890f75da4b" name="Default Changelist" comment="Course info Exercises 1.6-1.14">
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608230198264</updated>
-      <workItem from="1608230199687" duration="11812000" />
+      <workItem from="1608230199687" duration="11994000" />
     </task>
     <task id="LOCAL-00001" summary="Course info Exercises 1.6-1.14">
       <created>1608241796142</created>

@@ -14,7 +14,7 @@ const App = ({anecdotes}) => {
     // console.log(selected + ' ' + point[selected])
     
     // *****exercise 1.12*****
-    // random(0-1)* (length-1) (0-1)*(6-1)==>0-5
+    // random(0-1)* (length-1) (0-1)*(6-1)==>index: 0-5
     const selectHandler = () => setSelected(Math.floor(Math.random() * (anecdotes.length - 1)))
     // console.log(selected)
     
