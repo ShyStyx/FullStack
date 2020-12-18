@@ -1,5 +1,12 @@
 # dependencies
-/node_modules
+node_modules
 
 # misc
 .DS_Store
+
+# submitted folder
+part0/*
+part1/*
+
+*.xml
+*.iml
