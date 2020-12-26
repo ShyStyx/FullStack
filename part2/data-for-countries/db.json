@@ -1,0 +1,26 @@
+{
+  "weather": {
+    "location": {
+      "name": "Helsinki",
+      "region": "Southern Finland",
+      "country": "Finland",
+      "lat": 60.18,
+      "lon": 24.93,
+      "tz_id": "Europe/Helsinki",
+      "localtime_epoch": 1608412973,
+      "localtime": "2020-12-19 23:22"
+    },
+    "current": {
+      "temp_c": 6.0,
+      "condition": {
+        "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png"
+      },
+      "wind_kph": 20.2,
+      "wind_degree": 210,
+      "wind_dir": "SSW",
+      "humidity": 100,
+      "cloud": 100,
+      "uv": 1.0
+    }
+  }
+}
